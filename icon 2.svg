@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#526b7a"/>
+<circle cx="256" cy="278" r="150" fill="#e5d7c5"/>
+<circle cx="154" cy="143" r="58" fill="#e5d7c5"/><circle cx="358" cy="143" r="58" fill="#e5d7c5"/>
+<circle cx="154" cy="143" r="31" fill="#526b7a"/><circle cx="358" cy="143" r="31" fill="#526b7a"/>
+<circle cx="202" cy="262" r="13" fill="#35434d"/><circle cx="310" cy="262" r="13" fill="#35434d"/>
+<ellipse cx="256" cy="310" rx="48" ry="37" fill="#f4eadc"/><path d="M238 308q18 18 36 0" fill="none" stroke="#35434d" stroke-width="10" stroke-linecap="round"/>
+<rect x="151" y="379" width="210" height="55" rx="27" fill="#d2e0e7"/><text x="256" y="415" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#40515c">MYR</text>
+</svg>
